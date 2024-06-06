@@ -1,2 +1,26 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header a{
+    color: red;
+    text-decoration: none;
+    font-size: 1.2em;
+    padding: 4px;
+}
+header img#monstro{
+    position: absolute;
+    left: auto;
+}
+#logo{
+    margin-top: 400px;
+    position: relative;
+}
+body{
+    background-color: black;
+}
+header{
+    border: 1px solid white;
+}
