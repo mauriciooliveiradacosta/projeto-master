@@ -20,8 +20,12 @@ header img#monstro{
     position: absolute;
     left: auto;
 }
+div img{
+    text-align: center;
+    display: block;
+    margin: auto;
+}
 #logo{
-    margin-top: 400px;
     position: relative;
 }
 body{
