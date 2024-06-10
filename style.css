@@ -28,6 +28,7 @@ header img#monstro{
 }
 main P{
     text-align: center;
+    text-shadow: 0 0 .5em #2137bd, 0 0 .5em #2137bd;
     color: #FFFFFF;
     font-size: 40px;
     font-weight: bold;
